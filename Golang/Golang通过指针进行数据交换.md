@@ -95,7 +95,7 @@ y交换后的地址=0xc00000a0c8
 
 ## 内存地址粗略草图
 
-![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/19/17190ff7ecd0db38~tplv-t2oaga2asx-image.image)
+![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/19/17190ff7ecd0db38~tplv-t2oaga2asx-image.image?raw=true)
 
 ## 我们先看b,a=a,b这种情况
 
