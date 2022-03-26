@@ -58,7 +58,7 @@ func main() {
 
 这个时候会在hello目录下生成一个hello.exe文件
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d3dfab148aef4772a6d0e3ed5af59d96~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d3dfab148aef4772a6d0e3ed5af59d96~tplv-k3u1fbpfcp-zoom-1.image?raw=true)
 
 然后我们进入test目录执行
 
@@ -78,7 +78,7 @@ func main() {
 
 进入test目录
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac08c180f3948b4bfeb2a999d8d069a~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac08c180f3948b4bfeb2a999d8d069a~tplv-k3u1fbpfcp-zoom-1.image?raw=true)
 
 这时候产生了pkg目录，但是不会产生bin目录
 
