@@ -1,6 +1,6 @@
 # Golang get下载得包不在$GOPATH$/src目录下
 
-通过前一篇文章[通过代理下载Beego框架](https://juejin.im/post/6854573210483032077) 我们下载好了框架源码包，可是有没有发现这个源码包他并没有出现在$GOPATH/src目录下面，而是在$GOPATH/pkg目录下面：
+通过前一篇文章[通过代理下载Beego框架](https://github.com/xyf1096415969/ITStudy/blob/main/Golang/Goland%E5%AF%BC%E5%85%A5beego%E6%A1%86%E6%9E%B6%E6%BA%90%E7%A0%81%E6%8A%A5%E7%BA%A2.md) 我们下载好了框架源码包，可是有没有发现这个源码包他并没有出现在$GOPATH/src目录下面，而是在$GOPATH/pkg目录下面：
 
 ![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/7/19/17364da8ef85fd01~tplv-t2oaga2asx-image.image)
 
@@ -36,8 +36,6 @@
 ![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/7/19/17364e1e004f21ba~tplv-t2oaga2asx-image.image)
 
 然后使用`go get 你想要导入的包地址`
-
-``
 
 ![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/7/19/17364e67d425f224~tplv-t2oaga2asx-image.image)
 
