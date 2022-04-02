@@ -16,7 +16,7 @@ fmt.Println("Hello, World")
 
 项目结构如下【看src/test项目】：
 
-![img](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/462122b547174175860ddb7d3bf86ce4~tplv-k3u1fbpfcp-watermark.image)
+![import目录](https://cdn.jsdelivr.net/gh/xyf1096415969/blogImgs@main/imgs/import目录.png)
 
 主要看hello.go与main.go:
 
