@@ -12,7 +12,7 @@ fmt.Println("Hello, World")
 
 很多Golang初学者看到上面代码，都会想当然的将import后面的"c"、"fmt"当成包名，将其与c.Func1()和 fmt.Println()中的c和fmt认作为同一个语法元素：包名
 
-我们来验证一下：
+我们来验证一下::
 
 项目结构如下【看src/test项目】：
 
